@@ -33,6 +33,9 @@ Control an Arduino-based robot car with hand gestures detected through a webcam.
 | 4 | `4` | Turn left |
 | 5 | `5` | Honk |
 
+## Project Preview
+
+![Top view of the hand gesture controlled robot](robot-overview.jpeg)
 ## Wiring
 
 | L298N pin | Arduino pin | Purpose |
